@@ -1,7 +1,6 @@
 {
   "name": "sqlsequelize",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,16 @@
     "mysql2": "^2.3.3",
     "sequelize": "^6.16.1",
     "yargs": "^17.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingenii1/week8sqlSequelize.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ingenii1/week8sqlSequelize/issues"
+  },
+  "homepage": "https://github.com/ingenii1/week8sqlSequelize#readme",
+  "description": ""
 }
